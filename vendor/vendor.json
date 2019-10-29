@@ -1,0 +1,175 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "gln+G/448NoLAKEWp8RWY37/KiM=",
+			"path": "github.com/andygrunwald/go-jira",
+			"revision": "9ec6eec63490b2b79c4ee3eaeb95c6ca6867eedb",
+			"revisionTime": "2019-10-17T03:20:03Z"
+		},
+		{
+			"checksumSHA1": "0rido7hYHQtfq3UJzVT5LClLAWc=",
+			"path": "github.com/beorn7/perks/quantile",
+			"revision": "37c8de3658fcb183f997c4e13e8337516ab753e6",
+			"revisionTime": "2019-07-31T12:00:54Z"
+		},
+		{
+			"checksumSHA1": "P6u6fDWwSfRL2Bc6uhZ9kcoPsek=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "5e25c22bd5d6de03265bbe5462dcd162f85046f6",
+			"revisionTime": "2019-06-20T18:01:02Z"
+		},
+		{
+			"checksumSHA1": "Ps2Bsd1OjhSmAv4uVA2ZIZx7w7k=",
+			"path": "github.com/fatih/structs",
+			"revision": "878a968ab22548362a09bdb3322f98b00f470d46",
+			"revisionTime": "2018-10-10T23:17:57Z"
+		},
+		{
+			"checksumSHA1": "N5OwcjPUKJ2V76raW7w7v8ZwKdk=",
+			"path": "github.com/free/jiralert/pkg/alertmanager",
+			"revision": "7a1b0b33f457efc9b7f8b4d36bb031b7fe0f68dc",
+			"revisionTime": "2019-08-22T14:55:05Z"
+		},
+		{
+			"checksumSHA1": "95Wn0Gp+HIuNgzBCgDO8QdrwhSk=",
+			"path": "github.com/free/jiralert/pkg/config",
+			"revision": "7a1b0b33f457efc9b7f8b4d36bb031b7fe0f68dc",
+			"revisionTime": "2019-08-22T14:55:05Z"
+		},
+		{
+			"checksumSHA1": "IhTNPGh+P8gMijML/wx+UbrK7Iw=",
+			"path": "github.com/free/jiralert/pkg/notify",
+			"revision": "7a1b0b33f457efc9b7f8b4d36bb031b7fe0f68dc",
+			"revisionTime": "2019-08-22T14:55:05Z"
+		},
+		{
+			"checksumSHA1": "WPcxZMEz1OZ8GPvFgCbYUOdcNNQ=",
+			"path": "github.com/free/jiralert/pkg/template",
+			"revision": "7a1b0b33f457efc9b7f8b4d36bb031b7fe0f68dc",
+			"revisionTime": "2019-08-22T14:55:05Z"
+		},
+		{
+			"checksumSHA1": "eVc+4p1fDrG3e49wZuztY6D2txA=",
+			"path": "github.com/go-kit/kit/log",
+			"revision": "9f5354e50d79d79d865f684fe139811cf309870f",
+			"revisionTime": "2019-10-18T12:22:45Z"
+		},
+		{
+			"checksumSHA1": "dyVQWAYHLspsCzhDwwfQjvkOtMk=",
+			"path": "github.com/go-kit/kit/log/level",
+			"revision": "9f5354e50d79d79d865f684fe139811cf309870f",
+			"revisionTime": "2019-10-18T12:22:45Z"
+		},
+		{
+			"checksumSHA1": "g8yM1TRZyIjXtopiqbslzgLqtM0=",
+			"path": "github.com/go-logfmt/logfmt",
+			"revision": "07c9b44f60d7ffdfb7d8efe1ad539965737836dc",
+			"revisionTime": "2018-11-22T01:56:15Z"
+		},
+		{
+			"checksumSHA1": "Q3FteGbNvRRUMJqbYbmrcBd2DMo=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "ed6926b37a637426117ccab59282c3839528a700",
+			"revisionTime": "2019-10-22T19:55:53Z"
+		},
+		{
+			"checksumSHA1": "p3IB18uJRs4dL2K5yx24MrLYE9A=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "c8c88dbee036db4e4808d1f2ec8c2e15e11c3f80",
+			"revisionTime": "2019-03-18T16:54:38Z"
+		},
+		{
+			"checksumSHA1": "bKMZjd2wPw13VwoE7mBeSv5djFA=",
+			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"revision": "c182affec369e30f25d3eb8cd8a478dee585ae7d",
+			"revisionTime": "2018-12-31T17:19:20Z"
+		},
+		{
+			"checksumSHA1": "I7hloldMJZTqUx6hbVDp5nk9fZQ=",
+			"path": "github.com/pkg/errors",
+			"revision": "27936f6d90f9c8e1145f11ed52ffffbfdb9e0af7",
+			"revisionTime": "2019-02-27T00:00:51Z"
+		},
+		{
+			"checksumSHA1": "HquvlxEmpILGOdePiJzqL/zMvUY=",
+			"path": "github.com/prometheus/client_golang/prometheus",
+			"revision": "333f01cef0d61f9ef05ada3d94e00e69c8d5cdda",
+			"revisionTime": "2019-10-24T23:19:15Z"
+		},
+		{
+			"checksumSHA1": "UBqhkyjCz47+S19MVTigxJ2VjVQ=",
+			"path": "github.com/prometheus/client_golang/prometheus/internal",
+			"revision": "333f01cef0d61f9ef05ada3d94e00e69c8d5cdda",
+			"revisionTime": "2019-10-24T23:19:15Z"
+		},
+		{
+			"checksumSHA1": "UcahVbxaRZ35Wh58lM9AWEbUEts=",
+			"path": "github.com/prometheus/client_golang/prometheus/promhttp",
+			"revision": "333f01cef0d61f9ef05ada3d94e00e69c8d5cdda",
+			"revisionTime": "2019-10-24T23:19:15Z"
+		},
+		{
+			"checksumSHA1": "V8xkqgmP66sq2ZW4QO5wi9a4oZE=",
+			"path": "github.com/prometheus/client_model/go",
+			"revision": "14fe0d1b01d4d5fc031dd4bec1823bd3ebbe8016",
+			"revisionTime": "2019-08-12T15:41:04Z"
+		},
+		{
+			"checksumSHA1": "vA545Z9FkjGvIHBTAKQOE0nap/k=",
+			"path": "github.com/prometheus/common/expfmt",
+			"revision": "b5fe7d854c42dc7842e48d1ca58f60feae09d77b",
+			"revisionTime": "2019-10-17T12:25:55Z"
+		},
+		{
+			"checksumSHA1": "1Mhfofk+wGZ94M0+Bd98K8imPD4=",
+			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"revision": "b5fe7d854c42dc7842e48d1ca58f60feae09d77b",
+			"revisionTime": "2019-10-17T12:25:55Z"
+		},
+		{
+			"checksumSHA1": "ccmMs+h9Jo8kE7izqsUkWShD4d0=",
+			"path": "github.com/prometheus/common/model",
+			"revision": "b5fe7d854c42dc7842e48d1ca58f60feae09d77b",
+			"revisionTime": "2019-10-17T12:25:55Z"
+		},
+		{
+			"checksumSHA1": "/otbR/D9hWawJC2jDEqxLdYkryk=",
+			"path": "github.com/prometheus/procfs",
+			"revision": "34c83637414974b5e7d4bd700b49de3c66631989",
+			"revisionTime": "2019-10-22T16:02:49Z"
+		},
+		{
+			"checksumSHA1": "ax1TLBC8m/zLs8u//UHHdFf80q4=",
+			"path": "github.com/prometheus/procfs/internal/fs",
+			"revision": "34c83637414974b5e7d4bd700b49de3c66631989",
+			"revisionTime": "2019-10-22T16:02:49Z"
+		},
+		{
+			"checksumSHA1": "sxRjp2SwHqonjR+sHIEXCkfBglI=",
+			"path": "github.com/prometheus/procfs/internal/util",
+			"revision": "34c83637414974b5e7d4bd700b49de3c66631989",
+			"revisionTime": "2019-10-22T16:02:49Z"
+		},
+		{
+			"checksumSHA1": "tbspT+UQWycQ99tvnT2DGpMH1k4=",
+			"path": "github.com/trivago/tgo/tcontainer",
+			"revision": "efdb64f40efe6e7cd3f50415710e7af6a7c316ad",
+			"revisionTime": "2019-04-18T22:03:35Z"
+		},
+		{
+			"checksumSHA1": "v9rOchAqUWqvFlA66QwnIzbPAYA=",
+			"path": "github.com/trivago/tgo/treflect",
+			"revision": "efdb64f40efe6e7cd3f50415710e7af6a7c316ad",
+			"revisionTime": "2019-04-18T22:03:35Z"
+		},
+		{
+			"checksumSHA1": "q7pfZZieFzr0mBeX1cBubsnISPw=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "f221b8435cfb71e54062f6c6e99e9ade30b124d5",
+			"revisionTime": "2019-10-02T18:33:36Z"
+		}
+	],
+	"rootPath": "github.com/polarisalpha/jiralert"
+}
