@@ -15,6 +15,12 @@
 			"revisionTime": "2019-07-31T12:00:54Z"
 		},
 		{
+			"checksumSHA1": "B7oqTF5ncNHjCk4QqJ/VTtvq1a4=",
+			"path": "github.com/cespare/xxhash",
+			"revision": "997e1685cae39ce5a9573990e7fabe3e796898a0",
+			"revisionTime": "2019-10-25T18:21:38Z"
+		},
+		{
 			"checksumSHA1": "P6u6fDWwSfRL2Bc6uhZ9kcoPsek=",
 			"path": "github.com/dgrijalva/jwt-go",
 			"revision": "5e25c22bd5d6de03265bbe5462dcd162f85046f6",
